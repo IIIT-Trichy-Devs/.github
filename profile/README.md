@@ -25,6 +25,15 @@ Whether you're just starting your coding journey or already building projects, t
 
 Explore our repositories, contribute to projects, share ideas, and connect with fellow developers.
 
+## 🔰 New to Coding & GitHub? Start Here!
+
+This community was created specifically to guide complete beginners at IIIT Trichy through their first steps in software development.
+
+- 📖 **[Beginner's Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/BEGINNERS_GUIDE.md)**: Jargon-free tutorial on commits, branches, and repositories.
+- 🎯 **[Make Your First Pull Request](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)**: A safe sandbox where you can practice by adding your name to our member roster.
+- 💬 **[Say Hello in Discussions](https://github.com/IIIT-Trichy-Devs/community/discussions/categories/introductions)**: Introduce yourself and ask any coding question without hesitation.
+- 🗺️ **[Learning Roadmaps](https://github.com/IIIT-Trichy-Devs/resources)**: Step-by-step tracks for Web, App, AI/ML, and DSA.
+
 ## Community
 
 **Our community website is releasing soon.**
