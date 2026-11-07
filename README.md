@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.iiitt.ac.in" target="_blank" rel="noopener noreferrer">
+    <img src="images/iiitt-logo.png" alt="IIIT Trichy Logo" width="130" />
+  </a>
+</p>
+
 # IIIT Trichy Devs
 
 ### Learn. Build. Contribute. Together.
