@@ -31,6 +31,10 @@ Explore our repositories, contribute to projects, share ideas, and connect with 
 
 Stay tuned for updates, upcoming events, projects, and ways to get involved.
 
+## Recommended Tools
+
+- ⚡ **Google Antigravity:** We encourage all community members to code with Antigravity for agentic pair programming. Eligible Jio subscribers can claim **18 months of Google AI Pro for free** via the MyJio app! See our [resources repository](https://github.com/IIIT-Trichy-Devs/resources) for details.
+
 ---
 
 *Built by students, for students.*
