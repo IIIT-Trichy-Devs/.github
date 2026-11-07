@@ -25,13 +25,13 @@ Whether you're just starting your coding journey or already building projects, t
 
 Explore our repositories, contribute to projects, share ideas, and connect with fellow developers.
 
-## 🔰 New to Coding & GitHub? Start Here!
+## 🧭 Start Here: Git & GitHub Guide
 
-This community was created specifically to guide complete beginners at IIIT Trichy through their first steps in software development.
+This community was created to help everyone at IIIT Trichy get comfortable with modern developer workflows and open source.
 
-- 📖 **[Beginner's Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/BEGINNERS_GUIDE.md)**: Jargon-free tutorial on commits, branches, and repositories.
-- 🎯 **[Make Your First Pull Request](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)**: A safe sandbox where you can practice by adding your name to our member roster.
-- 💬 **[Say Hello in Discussions](https://github.com/IIIT-Trichy-Devs/community/discussions/categories/introductions)**: Introduce yourself and ask any coding question without hesitation.
+- 📖 **[Guide to Git & GitHub](https://github.com/IIIT-Trichy-Devs/community/blob/main/GUIDE.md)**: Jargon-free walkthrough on commits, branches, and repositories.
+- 🎯 **[Make Your First Pull Request](https://github.com/IIIT-Trichy-Devs/community/blob/main/MEMBERS.md)**: A safe space where you can practice by adding your name to our member roster.
+- 💬 **[Say Hello in Discussions](https://github.com/IIIT-Trichy-Devs/community/discussions/categories/introductions)**: Introduce yourself and ask any question freely.
 - 🗺️ **[Learning Roadmaps](https://github.com/IIIT-Trichy-Devs/resources)**: Step-by-step tracks for Web, App, AI/ML, and DSA.
 
 ## Community
